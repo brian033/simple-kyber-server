@@ -1,0 +1,9 @@
+GET http://localhost:3001/api
+?chain=bsc
+&tokenIn=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+&tokenOut=0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b
+&amountIn=99920000000000000
+&chainId=56
+&recipient=0x16368dD7e94f177B8C2c028Ef42289113D328121
+&slipperage=0.5
+&deadline=1641804722938
